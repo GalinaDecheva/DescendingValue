@@ -46,7 +46,7 @@ public class DescendingValue {
 		}
 		
 		else {
-			if (a < c)
+			if (a < b)
 			{
 			System.out.print("Values in descending are: " + b + "," + a + "," + c);	
 			}
